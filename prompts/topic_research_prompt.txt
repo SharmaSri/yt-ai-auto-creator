@@ -1,0 +1,1 @@
+Pick an interesting short fact from the seed list and output it as a single line.

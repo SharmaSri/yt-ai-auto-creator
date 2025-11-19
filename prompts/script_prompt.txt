@@ -1,0 +1,2 @@
+Write 5 short captions (each can be one short sentence) for a 30-second YouTube Short about the following fact/topic: {topic}
+Each caption should be concise (4–10 words) and suitable for a large text-on-screen presentation. Provide them as a numbered list.

@@ -1,0 +1,2 @@
+Provide 6 short tag suggestions for a YouTube short about: {topic}
+Return as comma-separated tags.

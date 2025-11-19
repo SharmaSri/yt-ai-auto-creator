@@ -1,0 +1,6 @@
+# A simple seed file containing facts/quotes (one per line). Add as many as you like.
+The Eiffel Tower was originally intended for Barcelona.
+Honey never spoils; archaeologists found edible honey in ancient tombs.
+Bananas are berries, but strawberries are not.
+Oxford University is older than the Aztec Empire.
+There are more trees on Earth than stars in the Milky Way.
